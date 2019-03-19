@@ -1,0 +1,101 @@
+body{
+    background: url(images/dog3.jpg);
+    background-size: cover;
+}
+.content{
+    background: url(images/grass.jpg) repeat center;
+    text-align: center;
+    margin: 200px auto;
+    padding: 200px auto;
+    width: 50%; 
+    border: 7px black;
+    
+}
+a {
+	/* Change the display type of the a tag from inline to inline-block */
+	display: inline-block;
+	padding: 20px;
+	margin: 20px 10px;
+	/* Using a rounded font to match my rounded corners */
+	font-family: 'Ledger', serif;
+	text-decoration: none;
+	/* Add a border radius of 5px to the button 
+	http://css3gen.com/border-radius/ */
+    border-radius: 5px; 
+    background: rgb(255, 250, 230);
+    transition: ease .8s all;
+
+}
+a:hover {
+    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
+    background: -webkit-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
+    background: -o-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
+    background: -ms-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
+    background: linear-gradient(120deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
+    
+}
+    
+a:active {
+	display: inline-block;
+	padding: 20px;
+	margin: 20px 10px;
+	font-family: 'Ledger', serif;
+	text-decoration: none;
+    border-radius: 5px; 
+    background: rgb(255, 250, 230); 
+}
+/* a.contact-b {background: transparent;
+	border: 1px solid black;	
+	text-shadow: 4px 3px 6px rgba(0,0,0, 1);
+    color: rgb(5, 65, 5);
+    color: rgb(230, 230, 230);
+font-size: 22px;
+padding: 18px;
+text-shadow: 0px 1px 0px rgba(30, 30, 30, 0.77);
+background: rgb(0, 0, 0);
+}
+a.home-b {background: transparent;
+	border: 1px solid black;	
+	text-shadow: 4px 3px 6px rgba(0,0,0, 1);
+    color: rgb(5, 65, 5);
+    color: rgb(230, 230, 230);
+font-size: 22px;
+padding: 18px;
+text-shadow: 0px 1px 0px rgba(30, 30, 30, 0.77);
+background: rgb(0, 0, 0);
+background: -moz-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: -webkit-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: -o-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: -ms-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: linear-gradient(310deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+-webkit-box-shadow: 0px 7px 18px rgba(48, 46, 53, 0.47);
+-moz-box-shadow: 0px 7px 18px rgba(48, 46, 53, 0.47);
+box-shadow: 0px 7px 18px rgba(48, 46, 53, 0.47);
+}
+	
+a.more-info {
+	background: transparent;
+	border: 1px solid black;	
+	text-shadow: 4px 3px 6px rgba(0,0,0, 1);
+    color: rgb(5, 65, 5);
+    color: rgb(230, 230, 230);
+font-size: 22px;
+padding: 18px;
+text-shadow: 0px 1px 0px rgba(30, 30, 30, 0.77);
+background: rgb(0, 0, 0);
+background: -moz-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: -webkit-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: -o-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: -ms-linear-gradient(40deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+background: linear-gradient(310deg, rgb(0, 0, 0) 100%, rgb(179, 0, 0) 55%);
+-webkit-box-shadow: 0px 7px 18px rgba(48, 46, 53, 0.47);
+-moz-box-shadow: 0px 7px 18px rgba(48, 46, 53, 0.47);
+box-shadow: 0px 7px 18px rgba(48, 46, 53, 0.47);
+} */
+h1 {
+    font-family:  'Dancing Script', cursive;}
+p {
+    font-family: 'Ledger', serif;}
+    

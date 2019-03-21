@@ -3,7 +3,7 @@ body{
     background-size: cover;
 }
 .content{
-    background: url(images/grass.jpg) repeat center;
+    background: url(images/feathers.png) repeat center;
     text-align: center;
     margin: 200px auto;
     padding: 200px auto;
@@ -27,13 +27,12 @@ a {
 
 }
 a:hover {
-    background: rgb(0, 0, 0);
-    background: rgb(0, 0, 0);
-    background: -moz-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
-    background: -webkit-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
-    background: -o-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
-    background: -ms-linear-gradient(30deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
-    background: linear-gradient(120deg, rgb(0, 0, 0) 35%, rgb(0, 255, 168) 70%);
+    background: rgb(206, 139, 90);
+background: -moz-linear-gradient(30deg, rgb(206, 139, 90) 11%, rgb(117, 88, 116) 70%);
+background: -webkit-linear-gradient(30deg, rgb(206, 139, 90) 11%, rgb(117, 88, 116) 70%);
+background: -o-linear-gradient(30deg, rgb(206, 139, 90) 11%, rgb(117, 88, 116) 70%);
+background: -ms-linear-gradient(30deg, rgb(206, 139, 90) 11%, rgb(117, 88, 116) 70%);
+background: linear-gradient(120deg, rgb(206, 139, 90) 11%, rgb(117, 88, 116) 70%);
     
 }
     
